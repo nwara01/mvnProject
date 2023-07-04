@@ -1,0 +1,4 @@
+2023-07-04 14:40:05  INFO  App :18  -  You inserted the number:80
+2023-07-04 14:40:05  DEBUG App :23  -  Number is smaller than 100, so it is correct!
+2023-07-04 14:40:07  INFO  App :18  -  You inserted the number:8000
+2023-07-04 14:40:07  ERROR App :20  -  You entered a wrong number!
